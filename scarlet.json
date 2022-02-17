@@ -1,0 +1,113 @@
+{
+  "META": {
+    "repoName": "Private AI",
+    "repoIcon": "https://appinstallerios.com/private/Files/Icons/AppInstalleriOSIcon.png"
+  },
+  "Tweaked": [
+    {
+      "name": "unc0ver",
+      "version": "8.0.2",
+      "icon": "https://appinstallerios.com/private/Files/Icons/Unc0verIcon.png",
+      "down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+      "dev": "pwn20wnd",
+      "banner": "https://appinstallerios.com/private/Files/Banners/unc0verBanner.png",
+      "category": "Jailbreaks",
+      "description": "Jailbreak iOS 11 - 14.3",
+      "bundleID": "science.xnu.undecimus",
+      "debs": [
+        ""
+      ],
+      "contact": {
+        "web": "https://unc0ver.dev",
+        "twitter": "https://twitter.com/unc0verteam"
+      }
+    },
+    {
+      "name": "ZiniTevi",
+      "version": "1.0.",
+      "icon": "https://appinstallerios.com/private/Files/Icons/ZiniTeviIcon.png",
+      "down": "https://zinitevi.github.io/movieapps/apps/zinitevi_adhoc.ipa",
+      "dev": "ZiniTevi",
+      "banner": "https://appinstallerios.com/private/Files/Banners/ZiniTeviBanner.png",
+      "category": "Tweaked Apps",
+      "description": "Watch Movies For Free!",
+      "bundleID": "com.ZiniTevi.app",
+      "debs": [
+        ""
+      ],
+      "contact": {
+        "web": "https://zinitevi.github.io/movieapps/",
+        "twitter": "https://twitter.com/tevizini"
+      }
+    },
+    {
+      "name": "MediaBox HD",
+      "version": "1.0.",
+      "icon": "https://appinstallerios.com/private/Files/Icons/MediaBoxIcon.png",
+      "down": "https://mediaboxhd.net/download/mediaboxhd_2.ipa",
+      "dev": "MediaBox",
+      "banner": "https://appinstallerios.com/private/Files/Banners/MediaBoxBanner.png",
+      "category": "Tweaked Apps",
+      "description": "The Best Entertainment App For You And Your Family",
+      "bundleID": "com.MediaBoxHD.app",
+      "debs": [
+        ""
+      ],
+      "contact": {
+        "web": "https://mediaboxhd.net",
+        "twitter": "https://twitter.com/mediaboxhd"
+      }
+    },
+    {
+      "name": "Taurine",
+      "version": "1.1.1",
+      "icon": "https://appinstallerios.com/private/Files/Icons/TaurineIcon.png",
+      "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.1/Taurine-1.1.1.ipa",
+      "dev": "Odyssey Team",
+      "banner": "https://appinstallerios.com/private/Files/Banners/TaurineBanner.png",
+      "category": "Jailbreaks",
+      "description": "Jailbreak For iOS 14.0 - 14.3",
+      "bundleID": "com.odysseyteam.taurine",
+      "debs": [
+        ""
+      ],
+      "contact": {
+        "web": "https://taurine.app",
+        "twitter": "https://twitter.com/odysseyteam_"
+      }
+    },
+    {
+      "name": "Scarlet",
+      "version": "1.0",
+      "icon": "https://appinstallerios.com/private/Files/Icons/ScarletIcon.png",
+      "down": "https://resources.usescarlet.com/IPAs/ScarletAlpha.ipa",
+      "dev": "Scarlet",
+      "banner": "https://appinstallerios.com/private/Files/Banners/ScarletBanner.png",
+      "category": "Tweaked Apps",
+      "description": "",
+      "bundleID": "com.Scarlet.app",
+      "contact": {
+        "web": "https://usescarlet.com",
+        "twitter": "https://twitter.com/getscarlet"
+      }
+    },
+    {
+      "name": "Odyssey",
+      "version": "1.4.1",
+      "icon": "https://appinstallerios.com/private/Files/Icons/OdysseyIcon.png",
+      "down": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.1/Odyssey-1.4.1.ipa",
+      "dev": "Odyssey Team",
+      "banner": "https://appinstallerios.com/private/Files/Banners/OdysseyBanner.png",
+      "category": "Jailbreaks",
+      "description": "Jailbreak For iOS 13.0 - 13.7",
+      "bundleID": "com.odysseyteam.app",
+      "debs": [
+        ""
+      ],
+      "contact": {
+        "web": "https://theodyssey.dev/",
+        "twitter": "https://twitter.com/odysseyteam_"
+      }
+    }
+  ]
+}
