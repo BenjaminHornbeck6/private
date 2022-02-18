@@ -37,9 +37,9 @@
       "Developer": "DebianArch"
     },
     "Taurine": {
-      "Icon": "https://icons.appinstallerios.com/TaurineIcon.png",
+      "Icon": "https://appinstallerios.com/private/Files/Icons/TaurineIcon.png",
       "Name": "Taurine",
-      "IPA": "https://appinstallerios.com/private/IPA/Taurine.ipa",
+      "IPA": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.2/Taurine-1.1.2.ipa",
       "Banner": "https://appinstallerios.com/Img/TaurineBanner.png",
       "Developer": "CoolStar"
     },
