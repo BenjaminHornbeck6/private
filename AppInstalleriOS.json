@@ -2,16 +2,16 @@
   "Repo": "Private AI",
   "Apps": {
     "unc0ver": {
-      "Icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
+      "Icon": "https://appinstallerios.com/private/Files/Icons/Unc0verIcon.png",
       "Name": "unc0ver",
       "IPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "Banner": "https://appinstallerios.com/Img/unc0verBanner.png",
       "Developer": "pwn20wnd"
     },
     "ZiniTevi": {
-      "Icon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
+      "Icon": "https://appinstallerios.com/private/Files/Icons/ZiniTeviIcon.png",
       "Name": "ZiniTevi",
-      "IPA": "https://appinstallerios.com/private/IPA/ZiniTevi.ipa",
+      "IPA": "https://zinitevi.github.io/movieapps/apps/zinitevi_adhoc.ipa",
       "Banner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
       "Developer": "ZiniTevi Team"
     },
