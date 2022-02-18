@@ -23,9 +23,9 @@
       "Developer": "AppInstaller iOS"
     },
     "Odyssey": {
-      "Icon": "https://icons.appinstallerios.com/OdysseyIcon.png",
+      "Icon": "https://appinstallerios.com/private/Files/Icons/OdysseyIcon.png",
       "Name": "Odyssey",
-      "IPA": "https://appinstallerios.com/private/IPA/Odyssey.ipa",
+      "IPA": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
       "Banner": "https://appinstallerios.com/Img/OdysseyBanner.png",
       "Developer": "CoolStar"
     },
