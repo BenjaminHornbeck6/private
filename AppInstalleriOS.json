@@ -20,7 +20,7 @@
       "Name": "MediaBox HD",
       "IPA": "https://mediaboxhd.net/download/mediaboxhd_2.ipa",
       "Banner": "https://appinstallerios.com/Img/MediaBoxBanner.png",
-      "Developer": "AppInstaller iOS"
+      "Developer": "MediaBox Team"
     },
     "Odyssey": {
       "Icon": "https://appinstallerios.com/private/Files/Icons/OdysseyIcon.png",
@@ -55,7 +55,7 @@
       "Name": "MagicSign",
       "IPA": "https://appinstallerios.com/private/IPA/MagicSign.ipa",
       "Banner": "https://appinstallerios.com/Img/MagicSignBanner.png",
-      "Developer": "AppInstaller iOS"
+      "Developer": "Unknown"
     }
   }
 }
